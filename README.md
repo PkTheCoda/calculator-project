@@ -1,7 +1,7 @@
 # calculator-project
 My take on TOP's JS course (Calculator Challenge)
 
-[Live Preview:](https://pkthecoda.github.io/calculator-project/)
+Live Preview: [Here](https://pkthecoda.github.io/calculator-project/)
 
 I spent a total of 2.5 days on this project, about an hour each day! I have no words for how fun this project is! It really puts your skills to the test when it comes to DOM manipulation, UI, and styling. I learned a lot of different skills throughout this project and it helped me understand a lot of Javascript!
 
